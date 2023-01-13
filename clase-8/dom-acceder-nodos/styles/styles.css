@@ -1,0 +1,16 @@
+.rojo {
+  background-color: red;
+}
+
+.amarillo {
+  background-color: yellow;
+}
+
+.azul {
+  background-color: blue;
+}
+
+#color-aleatorio {
+  width: 100px;
+  height: 100px;
+}
