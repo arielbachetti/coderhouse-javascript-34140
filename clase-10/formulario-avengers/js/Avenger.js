@@ -6,6 +6,6 @@ class Avenger {
   }
 
   soyMayorDeEdad() {
-    return avenger.edad < 18;
+    return this.edad >= 18;
   }
 }

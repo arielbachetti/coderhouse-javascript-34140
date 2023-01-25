@@ -43,7 +43,7 @@ formulario.addEventListener('submit', (e) => {
     edad: e.target[2].value,
   });
 
-  if (avenger.soyMayorDeEdad()) {
+  if (!avenger.soyMayorDeEdad()) {
     mensajeError.innerText = 'Tienes que ser mayor de 18 años';
     return;
   }
