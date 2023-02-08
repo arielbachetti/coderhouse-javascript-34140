@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Steve Rogers",
+    "alias": "Captain America"
+  },
+  {
+    "id": 2,
+    "nombre": "Tony Stark",
+    "alias": "Iron Man"
+  },
+  {
+    "id": 3,
+    "nombre": "Thor",
+    "alias": "Thor"
+  },
+  {
+    "id": 4,
+    "nombre": "Bruce Banner",
+    "alias": "Hulk"
+  }
+]
